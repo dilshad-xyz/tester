@@ -1,0 +1,26 @@
+.home {
+  margin: 0px;
+  padding: 0px;
+  position: relative;
+  height: 670px;
+}
+.content-center{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  margin: 0 auto;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  color: white;
+}
+.Container{
+  width: 70%;
+  margin: 0 auto;
+}
+.card-center{
+  margin:20 20px !important;
+}
